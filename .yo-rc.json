@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "jsWebapps",
+    "style": "stylus",
+    "postcss": false
+  }
+}
